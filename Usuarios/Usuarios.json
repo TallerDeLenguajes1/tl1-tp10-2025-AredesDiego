@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Leanne Graham",
+    "Email": "Sincere@april.biz",
+    "Address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    }
+  },
+  {
+    "Name": "Ervin Howell",
+    "Email": "Shanna@melissa.tv",
+    "Address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    }
+  },
+  {
+    "Name": "Clementine Bauch",
+    "Email": "Nathan@yesenia.net",
+    "Address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    }
+  },
+  {
+    "Name": "Patricia Lebsack",
+    "Email": "Julianne.OConner@kory.org",
+    "Address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    }
+  },
+  {
+    "Name": "Chelsey Dietrich",
+    "Email": "Lucio_Hettinger@annie.ca",
+    "Address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    }
+  }
+]
