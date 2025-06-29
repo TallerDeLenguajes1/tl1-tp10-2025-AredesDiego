@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\Materias de la Facultad\\Segundo año\\Primer cuatrimestre\\Taller de lenguajes1 2025\\Tp10\\tl1-tp10-2025-AredesDiego\\Usuarios\\Usuarios.csproj": {}
+  },
+  "projects": {
+    "I:\\Materias de la Facultad\\Segundo año\\Primer cuatrimestre\\Taller de lenguajes1 2025\\Tp10\\tl1-tp10-2025-AredesDiego\\Usuarios\\Usuarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\Materias de la Facultad\\Segundo año\\Primer cuatrimestre\\Taller de lenguajes1 2025\\Tp10\\tl1-tp10-2025-AredesDiego\\Usuarios\\Usuarios.csproj",
+        "projectName": "Usuarios",
+        "projectPath": "I:\\Materias de la Facultad\\Segundo año\\Primer cuatrimestre\\Taller de lenguajes1 2025\\Tp10\\tl1-tp10-2025-AredesDiego\\Usuarios\\Usuarios.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "I:\\Materias de la Facultad\\Segundo año\\Primer cuatrimestre\\Taller de lenguajes1 2025\\Tp10\\tl1-tp10-2025-AredesDiego\\Usuarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
