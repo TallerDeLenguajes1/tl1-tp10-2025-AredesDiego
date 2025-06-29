@@ -9,18 +9,23 @@ Console.WriteLine("-----------------------------");
 
 // Mostrar tareas pendientes y realizadas
 Console.WriteLine("--------------------------------------Tareas Pendientes-------------------------------------------------");
-foreach (var tarea in listTarea.Where(t => !t.completed))
+foreach (var tarea in listTarea)
 {
-    Console.WriteLine($"TITLE: {tarea.title}");
-    Console.WriteLine($"COMPLETED: {tarea.completed}\n\n");
+    if (tarea.completed == false)
+    {
+        Console.WriteLine($"TITLE: {tarea.title}");
+        Console.WriteLine($"COMPLETED: {tarea.completed}\n\n");
+    }
 }
 Console.WriteLine("--------------------------------------Tareas Realizadas-------------------------------------------------");
-foreach (var tarea in listTarea.Where(t => t.completed))
+foreach (var tarea in listTarea)
 {
-    Console.WriteLine($"TITLE: {tarea.title}");
-    Console.WriteLine($"COMPLETED: {tarea.completed}\n\n");
+    if (tarea.completed == true)
+    {
+        Console.WriteLine($"TITLE: {tarea.title}");
+        Console.WriteLine($"COMPLETED: {tarea.completed}\n\n");
+    }
 }
-
 // Guardar en archivo JSON
 const string NombreArchivo = "Tareas.json";
 var miHelperdeArchivos = new HelperDeJson();
